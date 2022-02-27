@@ -1,0 +1,66 @@
+{
+  "name": "server_blinds",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "serve/index.js",
+  "author": "vinciis",
+  "license": "ISC",
+  "scripts": {
+    "build": "cd Blinds && npm install && npm run build",
+    "start": "nodemon --watch server --exec node --experimental-modules server/index.js",
+    "production": "cross-env NODE_ENV=production NODE_OPTIONS=--openssl-legacy-provider  node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+  },
+  "dependencies": {
+    "@_koi/kohaku": "^1.1.2",
+    "arweave": "^1.10.23",
+    "aws-amplify": "^4.3.12",
+    "axios": "^0.25.0",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "express-async-handler": "^1.2.0",
+    "express-fileupload": "^1.2.1",
+    "express-jwt": "^6.1.0",
+    "express-validator": "^6.14.0",
+    "fs": "^0.0.1-security",
+    "googleapis": "^92.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "module": "^1.2.5",
+    "mongodb": "^4.3.0",
+    "mongoose": "^6.1.6",
+    "mongoose-sequence": "^5.3.1",
+    "multer": "^1.4.4",
+    "nodemailer": "^6.7.2",
+    "path": "^0.12.7",
+    "redstone-smartweave": "^0.4.29",
+    "smartweave": "^0.4.46",
+    "twilio": "^3.73.0",
+    "url": "^0.11.0",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "esbuild": "0.14.11",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "16.13.2",
+    "npm": "8.1.2",
+    "yarn": "1.22.17"
+  },
+  "keywords": [
+    "media",
+    "server",
+    "video",
+    "node",
+    "js",
+    "node.js",
+    "rest",
+    "api"
+  ]
+}

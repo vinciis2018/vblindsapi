@@ -1,0 +1,49 @@
+{
+  "state": {
+    "name": "Real Attention Token",
+    "ticker": "RAT",
+    "canEvolve": true,
+    "owner": "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg",
+    "balances": {
+      "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg": 998999745,
+      "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg": 31,
+      "5kUbe9C_zkZSDWI1ygve3jZDDrh3MSu-AT8M4tu7mpA": 230
+    },
+    "vault": {},
+    "votes": [],
+    "roles": {},
+    "settings": [],
+    "registeredGames": {
+      "0dtjI7hd5bQT7f-lVWMNVNn_sho7ATxppMr-x4-Mg68": {
+        "game": "SCREEN_GAME",
+        "active": false
+      }
+    },
+    "deregisteredGames": {
+      "0dtjI7hd5bQT7f-lVWMNVNn_sho7ATxppMr-x4-Mg68": {
+        "game": "SCREEN_GAME",
+        "time": "Mon Jan 10 2022 22:22:14 GMT+0530 (India Standard Time)"
+      }
+    },
+    "incentives": {
+      "0dtjI7hd5bQT7f-lVWMNVNn_sho7ATxppMr-x4-Mg68": [
+        {
+          "game": "SCREEN_GAME",
+          "value": 3,
+          "block": 32432,
+          "winners": [
+            "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg",
+            "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg"
+          ]
+        }
+      ]
+    },
+    "stakes": {},
+    "tasks": [],
+    "preRegisterDatas": [],
+    "mint": {},
+    "evolve": {},
+    "distributionBlock": 0,
+    "cleanPreRegisterBlock": 0
+  }
+}

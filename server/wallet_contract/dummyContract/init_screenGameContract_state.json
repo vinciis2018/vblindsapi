@@ -1,0 +1,35 @@
+{
+  "owner": "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg",
+  "title": "Paprika Screen game",
+  "name": "name",
+  "description": "description",
+  "gameType": "SCREEN_GAME",
+  "gameParams": {
+    "slotsTimePeriod": 20,
+    "initialRent": 5,
+    "initalWorth": 10,
+    "pools": {
+      "EPs": 0.29,
+      "EPa": 0.4,
+      "likeEP": 0.4,
+      "flagEP": 0.2
+    }
+  },
+  "stakes": {
+    "EPs": {
+      "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg": [
+        {
+          "value": 0.29,
+          "active": true,
+          "block": 787898
+        }
+      ]
+    }
+  },
+  "withdraws": {},
+  "rewardDistributions": {},
+  "locked": [],
+  "contentType": "text/html",
+  "createdAt": "Date.now()",
+  "tags": "tags"
+}

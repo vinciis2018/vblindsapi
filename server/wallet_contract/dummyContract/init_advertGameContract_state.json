@@ -1,0 +1,135 @@
+{
+  "owner": "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg",
+  "title": "Paprika Screen game",
+  "name": "name",
+  "description": "description",
+  "gameType": "SCREEN_GAME",
+  "gameParams": {
+    "slotsTimePeriod": 20,
+    "initialRent": 5,
+    "initalWorth": 10,
+    "pools": {
+      "EPs": 0.61,
+      "EPa": 0.2964,
+      "likeEP": 0.4,
+      "flagEP": 0.2
+    }
+  },
+  "stakes": {
+    "EPa": {
+      "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg": [
+        {
+          "value": 0.4,
+          "active": true,
+          "block": 90989
+        }
+      ],
+      "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg": [
+        {
+          "value": 0.38,
+          "active": true,
+          "block": 98977
+        }
+      ]
+    },
+    "EPs": {
+      "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg": [
+        {
+          "value": 0.32,
+          "active": true,
+          "block": 34354
+        }
+      ],
+      "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg": [
+        {
+          "value": 0.29,
+          "active": true,
+          "block": 34354
+        }
+      ]
+    },
+    "likeEP": {
+      "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg": [
+        {
+          "value": 0.2,
+          "active": true,
+          "block": 346575
+        }
+      ],
+      "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg": [
+        {
+          "value": 0.2,
+          "active": true,
+          "block": 34354
+        }
+      ]
+    },
+    "flagEP": {
+      "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg": [
+        {
+          "value": 0.2,
+          "active": true,
+          "block": 765897
+        }
+      ]
+    }
+  },
+  "withdraws": {
+    "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg": [
+      {
+        "pool": "EPs",
+        "amt": 0.36,
+        "value": 0.5472,
+        "stake_block": 78655
+      }
+    ],
+    "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg": [
+      {
+        "pool": "EPs",
+        "amt": 0.39,
+        "value": 0.6864,
+        "stake_block": 544534
+      }
+    ]
+  },
+  "rewardDistributions": {
+    "sell": {
+      "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg": [
+        {
+          "value": 4,
+          "block": 34326
+        },
+        {
+          "value": 0.30000000000000004,
+          "block": 74573
+        },
+        {
+          "value": 0.30000000000000004,
+          "block": 74573
+        }
+      ],
+      "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg": [
+        {
+          "value": 0.30000000000000004,
+          "block": 74573
+        },
+        {
+          "value": 0.30000000000000004,
+          "block": 74573
+        }
+      ]
+    },
+    "worthless": {
+      "APUjfcmSP_UIJGSY9MzBAn0KGeHy5gxfIOXln64uTkg": [
+        {
+          "value": 10,
+          "block": 98796
+        }
+      ]
+    }
+  },
+  "locked": [],
+  "contentType": "text/html",
+  "createdAt": "Date.now()",
+  "tags": "tags"
+}

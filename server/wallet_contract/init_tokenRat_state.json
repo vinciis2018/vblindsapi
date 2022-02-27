@@ -1,0 +1,23 @@
+{
+  "name": "Real Attention Token",
+  "ticker": "RAT",
+  "canEvolve": true,
+  "owner": "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg",
+  "balances": {
+    "5aAU5cJma31iXuTc2xj03EXoTcqmQ4thQEtVJHjHtgg": 990000000
+  },
+  "vault": {},
+  "votes": [],
+  "roles": {},
+  "settings": [],
+  "registeredGames": {},
+  "deregisteredGames": {},
+  "incentives": {},
+  "stakes": {},
+  "tasks": [],
+  "preRegisterDatas": [],
+  "mint": {},
+  "evolve": {},
+  "distributionBlock": 0,
+  "cleanPreRegisterBlock": 0
+}
